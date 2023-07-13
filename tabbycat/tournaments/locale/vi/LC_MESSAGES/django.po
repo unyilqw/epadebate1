@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-07-05 07:37+1000\n"
-"PO-Revision-Date: 2023-07-04 21:51\n"
+"PO-Revision-Date: 2023-07-13 15:38\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Vietnamese\n"
 "Language: vi_VN\n"
@@ -731,7 +731,7 @@ msgstr ""
 
 #: tournaments/templates/site_index.html
 msgid "Welcome!"
-msgstr ""
+msgstr "Chào mừng!"
 
 #: tournaments/templates/site_index.html
 msgid "It looks like there aren't any tournaments on this site. Would you like to create one?"
@@ -755,11 +755,11 @@ msgstr ""
 
 #: tournaments/templates/site_index.html
 msgid "Edit Database Area"
-msgstr ""
+msgstr "Chỉnh sửa dữ liệu"
 
 #: tournaments/templates/site_index.html
 msgid "Send a Test Email"
-msgstr ""
+msgstr "Gửi Email mẫu"
 
 #: tournaments/templates/site_index.html
 msgid "Import DebateXML"
@@ -768,12 +768,12 @@ msgstr ""
 #: tournaments/templates/site_index.html
 #, python-format
 msgid "Get API Token / Change Password (%(user)s)"
-msgstr ""
+msgstr "Lấy API Token/ Đổi mật khẩu (%(user)s)"
 
 #: tournaments/templates/site_index.html
 #, python-format
 msgid "Log Out (%(user)s)"
-msgstr ""
+msgstr "Đăng xuất (%(user)s)"
 
 #: tournaments/templates/site_index.html
 msgid "Log In as Admin"

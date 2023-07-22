@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-07-05 07:37+1000\n"
-"PO-Revision-Date: 2023-07-04 21:48\n"
+"PO-Revision-Date: 2023-07-22 08:03\n"
 "Last-Translator: \n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
@@ -73,7 +73,7 @@ msgstr ""
 
 #: breakqual/models.py
 msgid "priority"
-msgstr ""
+msgstr "優先度"
 
 #: breakqual/models.py
 msgid "If a team breaks in multiple categories, higher priority numbers take precedence; teams can break into multiple categories if and only if they all have the same priority"
@@ -89,7 +89,7 @@ msgstr ""
 
 #: breakqual/models.py
 msgid "Standard"
-msgstr ""
+msgstr "標準"
 
 #: breakqual/models.py
 msgid "AIDA 1996"
@@ -109,7 +109,7 @@ msgstr ""
 
 #: breakqual/models.py
 msgid "rule"
-msgstr ""
+msgstr "ルール"
 
 #: breakqual/models.py
 msgid "Rule for how the break is calculated (most tournaments should use \"Standard\")"
@@ -178,7 +178,7 @@ msgstr ""
 #: breakqual/templates/break_categories_edit.html
 #: breakqual/templates/breaking_index.html
 msgid "Break Categories"
-msgstr ""
+msgstr "ブレイクのカテゴリー"
 
 #: breakqual/templates/break_categories_edit.html
 #, python-format
@@ -192,7 +192,7 @@ msgstr ""
 
 #: breakqual/templates/break_categories_edit.html
 msgid "Save Break Categories"
-msgstr ""
+msgstr "ブレイクのカテゴリーを保存"
 
 #: breakqual/templates/breaking_adjs.html
 #, python-format

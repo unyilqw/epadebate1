@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-07-05 07:37+1000\n"
-"PO-Revision-Date: 2023-07-13 16:56\n"
+"PO-Revision-Date: 2023-07-23 17:29\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Vietnamese\n"
 "Language: vi_VN\n"
@@ -56,7 +56,7 @@ msgstr ""
 
 #: options/preferences.py options/templates/preferences_index.html
 msgid "Score Rules"
-msgstr ""
+msgstr "Điểm nói"
 
 #: options/preferences.py
 msgid "Minimum allowed score for substantive speeches"
@@ -132,7 +132,7 @@ msgstr ""
 
 #: options/preferences.py options/templates/preferences_index.html
 msgid "Draw Rules"
-msgstr ""
+msgstr "Bảng đấu"
 
 #: options/preferences.py
 msgid "The auto-allocator will only take adjudicators at or above this score as voting panellists"
@@ -536,7 +536,7 @@ msgstr ""
 
 #: options/preferences.py options/templates/preferences_index.html
 msgid "Debate Rules"
-msgstr ""
+msgstr "Luật tranh biện"
 
 #: options/preferences.py
 msgid "Two-team format (e.g. Australs, WSDC) or British Parliamentary"
@@ -1473,23 +1473,23 @@ msgstr "Cấu hình"
 
 #: options/templates/preferences_index.html
 msgid "The range of scores that can awarded to speeches, replies, and teams"
-msgstr ""
+msgstr "Rặng điểm nói có thể trao cho lượt nói, lượt phản hồi và đội thi"
 
 #: options/templates/preferences_index.html
 msgid "How teams are paired in the draw and how adjudicators are auto-allocated"
-msgstr ""
+msgstr "Cách các đội thi được xếp trong bảng đấu và cách các giám khảo được tự động phân bổ"
 
 #: options/templates/preferences_index.html
 msgid "How many speeches in a debate, how motions are decided, and whether reply speeches are used"
-msgstr ""
+msgstr "Số lượt nói, số kiến nghị và lượt phản hồi trong trận đấu"
 
 #: options/templates/preferences_index.html
 msgid "How teams and speakers are ranked in the released tabs"
-msgstr ""
+msgstr "Cách các đội thi và tranh biện viên được xếp hạng trên bảng"
 
 #: options/templates/preferences_index.html
 msgid "How adjudicators are ranked and who can submit feedback"
-msgstr ""
+msgstr "Cách các giám khảo được xếp hạng và ai có thể nộp feedback"
 
 #: options/templates/preferences_index.html
 msgid "How and where are motions used"

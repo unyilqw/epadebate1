@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-07-05 07:37+1000\n"
-"PO-Revision-Date: 2023-07-13 16:56\n"
+"PO-Revision-Date: 2023-07-23 15:47\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Vietnamese\n"
 "Language: vi_VN\n"
@@ -513,7 +513,7 @@ msgstr ""
 
 #: tournaments/templates/public_tournament_index.html
 msgid "Team Tab"
-msgstr ""
+msgstr "Đội thi"
 
 #: tournaments/templates/public_tournament_index.html
 #, python-format
@@ -535,11 +535,11 @@ msgstr ""
 
 #: tournaments/templates/public_tournament_index.html
 msgid "Adjudicator Tab"
-msgstr ""
+msgstr "Giám khảo"
 
 #: tournaments/templates/public_tournament_index.html
 msgid "Motions Tab"
-msgstr ""
+msgstr "Kiến nghị"
 
 #: tournaments/templates/public_tournament_index.html
 msgid "Sides"
@@ -598,7 +598,7 @@ msgstr "Người tham dự"
 
 #: tournaments/templates/public_tournament_index.html
 msgid "Institutions"
-msgstr ""
+msgstr "Đơn vị"
 
 #: tournaments/templates/public_tournament_index.html
 msgid "Feedback Progress"
@@ -866,7 +866,7 @@ msgstr ""
 
 #: tournaments/utils.py
 msgid "opposition"
-msgstr ""
+msgstr "phản đối"
 
 #: tournaments/utils.py
 msgid "government team"
@@ -886,7 +886,7 @@ msgstr ""
 
 #: tournaments/utils.py
 msgid "proposition"
-msgstr ""
+msgstr "ủng hộ"
 
 #: tournaments/utils.py
 msgid "proposition team"

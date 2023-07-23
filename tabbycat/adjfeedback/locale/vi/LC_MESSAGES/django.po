@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-28 12:44-0400\n"
-"PO-Revision-Date: 2023-07-23 15:47\n"
+"PO-Revision-Date: 2023-07-23 17:29\n"
 "Last-Translator: \n"
 "Language-Team: Vietnamese\n"
 "Language: vi_VN\n"
@@ -94,7 +94,7 @@ msgstr "đơn"
 
 #: adjfeedback/forms.py
 msgid "panellist"
-msgstr "giám khảo phụ"
+msgstr "panellist"
 
 #: adjfeedback/forms.py
 msgid "trainee"
@@ -479,11 +479,11 @@ msgstr[0] ""
 
 #: adjfeedback/tables.py
 msgid "Unsubmitted feedback ballots"
-msgstr ""
+msgstr "Số feedback bị thiếu"
 
 #: adjfeedback/tables.py
 msgid "View Missing Feedback"
-msgstr ""
+msgstr "Xem feedback bị thiếu"
 
 #: adjfeedback/templates/add_feedback.html
 msgid "Who is the feedback from?"
@@ -846,11 +846,11 @@ msgstr ""
 
 #: adjfeedback/views.py
 msgid "From Teams"
-msgstr ""
+msgstr "Từ đội thi"
 
 #: adjfeedback/views.py
 msgid "From Adjudicators"
-msgstr ""
+msgstr "Từ giám khảo"
 
 #: adjfeedback/views.py
 msgid "Latest Feedback"
@@ -923,7 +923,7 @@ msgstr ""
 #, python-format
 msgid "%(nmissing)d missing feedback submission (%(fulfilled).1f%% returned)"
 msgid_plural "%(nmissing)d missing feedback submissions (%(fulfilled).1f%% returned)"
-msgstr[0] ""
+msgstr[0] "%(nmissing)d feedback bị thiếu (%(fulfilled).1f%% đã feedback)"
 
 #: adjfeedback/views.py
 #, python-format

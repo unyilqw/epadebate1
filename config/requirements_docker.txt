@@ -2,4 +2,4 @@
 
 # Serving
 honcho==1.1.0                           # Allows a Procfile to run multiple processes
-gunicorn==20.1.0                        # Primary server for wsgi
+gunicorn==21.2.0                        # Primary server for wsgi
